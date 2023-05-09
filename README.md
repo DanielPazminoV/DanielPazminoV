@@ -1,19 +1,32 @@
-<!--
-<picture>
-  <source media="(prefers-color-scheme: dark)" srcset="https://drive.google.com/file/d/1bKA_ycpiJkbWCxMy6EAKKzLbw12LXgNM/view?usp=share_link">
-  <source media="(prefers-color-scheme: light)" srcset="[https://user-images.githubusercontent.com/25423296/163456779-a8556205-d0a5-45e2-ac17-42d089e3c3f8.png](https://drive.google.com/file/d/1bKA_ycpiJkbWCxMy6EAKKzLbw12LXgNM/view?usp=share_link)">
-  <img alt="Shows an illustrated sun in light mode and a moon with stars in dark mode." src="https://drive.google.com/file/d/1bKA_ycpiJkbWCxMy6EAKKzLbw12LXgNM/view?usp=share_link">
-</picture>
--->
+<a href="https://drive.google.com/uc?export=view&id=1bKA_ycpiJkbWCxMy6EAKKzLbw12LXgNM">
+  <img src="https://drive.google.com/uc?export=view&id=1bKA_ycpiJkbWCxMy6EAKKzLbw12LXgNM" style="width: 1584px; max-width: 100%; 
+  height: 396" align="center" title="Earth Rise." /></a>
+  
+  [![](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-pazmino-vernaza/?locale=en_US)
 
-### Hi there 👋
+<h1>
+  Hi I am Daniel. Nice to meet you!
+  <img src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif" width="30px"/>
+</h1>
 
-- 🔭 I’m currently working on a machine learning model to predict taxi callas on rush hours.
-- 🌱 I’m currently learning machine learning with scikit-learn.
-- 👯 I’m looking to collaborate on geospatial datascience projects.
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: Through the contact deatils provided in my profile.
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
+ <div id="header" align="left">
 
+### :man_technologist: About me :
+
+Passionate about technology and enjoying a career transition to Data Science <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+
+* :seedling: Studying :blue_book: and practising :computer: machine learning with Python.
+
+* :mailbox: ¿Do you want to get in touch? [![Linkedin Badge](https://img.shields.io/badge/-Daniel-blue?style=flat&logo=Linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-pazmino-vernaza/?locale=en_US)
+   
+---
+
+### :hammer_and_wrench: Skills :
+
+<div id="header" align="left">
+    <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
+  </a>  
+</div>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPazminoV&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
