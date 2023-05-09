@@ -26,7 +26,14 @@ Passionate about technology and enjoying a career transition to Data Science <im
 
 <div id="header" align="left">
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" alt="python"/>
-  </a>  
+  </a>
+    <img src="https://img.shields.io/badge/R-6DB33F?style=for-the-badge&logo=R&logoColor=white" alt="mysql"/>
+  </a>
+ <img src="https://img.shields.io/badge/SQL-217346?style=for-the-badge&logo=SQL&logoColor=white" alt="SQL"/>
+  </a>
+ <img src="https://img.shields.io/badge/QGIS-FFBE00?style=for-the-badge&logo=QGIS&logoColor=white" alt=QGIS"/>
+  </a>
+
 </div>
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPazminoV&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
