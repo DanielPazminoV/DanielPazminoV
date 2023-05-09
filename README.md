@@ -8,8 +8,6 @@
 
 ### Hi there 👋
 
-Here are some ideas to get you started:
-
 - 🔭 I’m currently working on a machine learning model to predict taxi callas on rush hours.
 - 🌱 I’m currently learning machine learning with scikit-learn.
 - 👯 I’m looking to collaborate on geospatial datascience projects.
