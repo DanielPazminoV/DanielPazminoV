@@ -1,5 +1,5 @@
-<a href="https://drive.google.com/uc?export=view&id=1bKA_ycpiJkbWCxMy6EAKKzLbw12LXgNM">
-  <img src="https://drive.google.com/uc?export=view&id=1bKA_ycpiJkbWCxMy6EAKKzLbw12LXgNM" style="width: 1584px; max-width: 100%; 
+<a href="https://drive.google.com/uc?export=view&id=11UNFdCnoNiqeOUbilFaPqtOnV9kLapu_">
+  <img src="https://drive.google.com/uc?export=view&id=11UNFdCnoNiqeOUbilFaPqtOnV9kLapu_" style="width: 1584px; max-width: 100%; 
   height: 396" align="center" title="Earth Rise." /></a>
   
  <h1 align="center">Hi 👋, I'm Daniel</h1>
