@@ -1,6 +1,7 @@
-<a href="https://drive.google.com/uc?export=view&id=11UNFdCnoNiqeOUbilFaPqtOnV9kLapu_">
-  <img src="https://drive.google.com/uc?export=view&id=11UNFdCnoNiqeOUbilFaPqtOnV9kLapu_" style="width: 1584px; max-width: 100%; 
-  height: 396" align="center" title="Earth Rise." /></a>
+<a href="https://drive.google.com/uc?export=view&id=1k85tubbBJe4pnL-L6YKIRHmWs8lCdns0">
+  <img src="https://drive.google.com/uc?export=view&id=1k85tubbBJe4pnL-L6YKIRHmWs8lCdns0" style="width: 1584px; max-width: 100%; 
+  height: 396" align="center" title="Data Scientist" /></a>
+
   
  <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">Data Scientist from Ecuador</h3>
