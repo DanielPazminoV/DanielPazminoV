@@ -3,7 +3,7 @@
   height: 396" align="center" title="Earth Rise." /></a>
   
  <h1 align="center">Hi 👋, I'm Daniel</h1>
-<h3 align="center">Geospatial Data Scientist from Ecuador</h3>
+<h3 align="center">Data Scientist from Ecuador</h3>
 
 - 🔭 I’m currently working on [Data Science Bootcamp](https://github.com/DanielPazminoV/yandex-practicum-projects)
 
