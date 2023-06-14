@@ -13,6 +13,8 @@
 
 - 💬 Ask me about **Python for data science**
 
+- 🇬🇧 Languages **English (full professional competency). Spanish (native)** 🇪🇸
+
 - 📫 How to reach me **daniel.pazmino.v@gmail.com**
 
 - ⚡ Fun fact **I lived in Australia and learned to surf there**
