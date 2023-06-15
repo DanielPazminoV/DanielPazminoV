@@ -13,7 +13,7 @@
 
 - 💬 Ask me about **Python for data science**
 
-- 🇬🇧 Languages **English (full professional competency)/Spanish (native)** 🇪🇸
+- 🇬🇧 Languages **English (full professional competence)/Spanish (native)** 🇪🇸
 
 - 📫 How to reach me **daniel.pazmino.v@gmail.com**
 
