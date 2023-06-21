@@ -1,0 +1,23 @@
+name: Update Stats
+
+on:
+  push:
+    branches:
+      - main  # Update this to the branch name where your README file is located
+
+jobs:
+  update-stats:
+    runs-on: ubuntu-latest
+
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v2
+
+      - name: Update Stats Card
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          template: classic  # You can customize the template based on your preference
+          committer_token: ${{ secrets.GITHUB_TOKEN }}
+          committer_username: github-actions
+          committer_email: github-actions@github.com
