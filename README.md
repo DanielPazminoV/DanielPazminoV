@@ -30,7 +30,3 @@
 [![Your Name's GitHub stats](https://github-readme-stats.vercel.app/api?username=DanielPazminoV&show_icons=true&theme=default)](https://github.com/DanielPazminoV)
 
 [![Your Name's Top Skills](https://github-readme-stats.vercel.app/api/top-langs/?username=DanielPazminoV&layout=compact)](https://github.com/DanielPazminoV)
-
-
-
-  
