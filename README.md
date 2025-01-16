@@ -5,10 +5,6 @@
  <h1 align="center">Hi 👋, I'm Daniel</h1>
 <h3 align="center">Data Scientist from Ecuador</h3>
 
-- 🔭 I’m currently working on **MLOPS projects**
-
-- 🌱 I’m currently learning **MLOPS with Python**
-
 - 👨‍💻 All of my projects are available at [https://github.com/DanielPazminoV](https://github.com/DanielPazminoV)
 
 - 💬 Ask me about **Python for data science**
